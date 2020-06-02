@@ -49,3 +49,16 @@ make
 ./_build/emqx/rel/emqx/bin/emqx console
 ./_build/emqx/rel/emqx/bin/emqx_ctl plugins load emqx_kafka_bridge
 ```
+
+
+
+
+
+
+
+此版本收发速度快！ 
+问题：kafka插件开启后无法正常关闭
+
+
+
+
